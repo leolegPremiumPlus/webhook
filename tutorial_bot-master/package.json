@@ -1,0 +1,35 @@
+{
+  "name": "tutorial_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Shisui",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "canvacord": "^5.2.3",
+    "canvas": "^2.9.0",
+    "discord-canvas": "^1.4.1",
+    "discord-fight-game": "^1.0.1",
+    "discord-purger": "^1.0.2",
+    "discord-rock-paper-scissor": "^1.1.1",
+    "discord.js": "^13.6.0",
+    "dotenv": "^10.0.0",
+    "eris": "^0.16.1",
+    "express": "^4.17.3",
+    "fast-xml-parser": "^4.0.6",
+    "mathjs": "^10.4.0",
+    "mongoose": "^6.2.0",
+    "ms-prettify": "^1.2.1",
+    "node-canvas-with-twemoji-and-discord-emoji": "^1.2.1",
+    "node-emoji": "^1.11.0",
+    "node-fetch": "^2.6.6",
+    "pokecord": "^1.0.1",
+    "puppeteer": "^13.5.1",
+    "twitter": "^1.7.1"
+  }
+}
